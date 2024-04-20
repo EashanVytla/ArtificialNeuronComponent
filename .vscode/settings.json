@@ -1,0 +1,34 @@
+{
+    "editor.rulers": [
+        80,
+    ],
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.eol": "\n",
+    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.format": "Letter",
+    "markdown-pdf.outputDirectory": "",
+    "markdown-pdf.highlightStyle": "a11y-light.css",
+    "print.colourScheme": "A11 Y",
+    "java.checkstyle.configuration": ".vscode\\osu-cse-checkstyle-config.xml",
+    "java.format.settings.url": ".vscode\\osu-cse-formatter.xml",
+    "java.format.settings.profile": "OSU CSE",
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Data\\OSU\\Semester 2\\Software 2\\software-2-monorepo-0.0.3\\lib\\binary-tree-utility.jar",
+        "c:\\Data\\OSU\\Semester 2\\Software 2\\software-2-monorepo-0.0.3\\lib\\components.jar",
+        "c:\\Data\\OSU\\Semester 2\\Software 2\\software-2-monorepo-0.0.3\\lib\\junit-4.13.2.jar",
+        "c:\\Data\\OSU\\Semester 2\\Software 2\\software-2-monorepo-0.0.3\\lib\\hamcrest-core-1.3.jar"
+    ],
+    "files.trimTrailingWhitespace": true,
+    "java.saveActions.organizeImports": true,
+    "java.cleanup.actionsOnSave": [
+        "qualifyMembers",
+        "addOverride"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
