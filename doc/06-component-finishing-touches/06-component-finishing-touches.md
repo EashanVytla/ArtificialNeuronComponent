@@ -146,18 +146,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+I believe that I understand software development a lot better after taking this class, because it shows how to work in a larger code base. In this class, our "larger codebase" is the OSU components and we are implementing functions. The cherry on top was the components project which taught us how to program our own work in the components framework.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+At first, I was a little confused on how the abstract classes could be applied in the real world. Applying them in the in the components project helped me wrap my head around that much better.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+Completing the portfolio project changed my perspective of software development because it made it more fun. A lot of software engineering seems monotonous and this made it seem more creative since we were actively tackling challenges to bring this product to life.
 
 ### Personal Growth
 
@@ -167,25 +167,26 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+Throughout this process, I picked up a lot of creativity skills. Especially how to think about a system as a whole when building. This is important for my future career goals of being a product manager or a tech startup founder.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+- Built a custom Neural Network interface
+- Creatively determined class mapping for Neural Network Infterface
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+My career goal is going Artificial Intelligence. So this project helped me further develop my intuition on Artificial Neurons and therefore the basis of Artifical Nueral Networks.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+I want to continue building out more projects to help me build my skills and progress towards my future goals of being a product manger. I could contact some linkedin connections from people that are also product managers.
 
 ## Assignment Tasks
 
